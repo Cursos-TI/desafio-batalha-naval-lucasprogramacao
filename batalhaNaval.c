@@ -1,3 +1,4 @@
+// Desafio Batalha Naval (Novato)
 #include <stdio.h>
 
 int main() {
